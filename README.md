@@ -19,5 +19,4 @@ The organizers and volunteers from the events are encouraged to add to this docu
     - Verifying the github email
     - Installing git bash for the windows laptops
 - Pushing/fetching to/from remotes was giving https errors (need to keep these in mind for the next session)
-- Poorly planned by @palash25 (need to have a better session in Jan)
 - No Feedback form.
